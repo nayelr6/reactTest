@@ -16,19 +16,31 @@ const Category = () => {
   const category = [
     {
       _id: 9006,
-      title: "Imprimante",
+      title: "Apple iPhone",
     },
     {
       _id: 9007,
-      title: "Encre",
+      title: "Apple iPad",
     },
     {
       _id: 9008,
-      title: "Ruban",
+      title: "Apple Watch",
     },
     {
       _id: 9009,
-      title: "Bac de dechet",
+      title: "Samsung Galaxy",
+    },
+    {
+      _id: 9010,
+      title:"Samsung Tablet"
+    },
+    {
+      _id: 9011,
+      title: "Headphones",
+    },
+    {
+      _id: 9012,
+      title: "Laptops",
     },
   ];
 

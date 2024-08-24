@@ -91,7 +91,7 @@ const BannerBottom = () => {
               ></path>
             </svg>
           </span>
-          <p className="text-lightText text-base">Return policy in 30 days</p>
+          <p className="text-lightText text-base">Return policy in 15 days</p>
         </div>
       </div>
     </div>
